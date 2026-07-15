@@ -13,9 +13,10 @@
     "khaoslib >= 1.17.0",
 
     "FrozenFood >= 1.2.2",
-    "FrozenFoodLib >= 1.0.3",
+    "FrozenFoodLib >= 1.1.0",
 
     "? aquilo-seabloom-algaculture >= 0.4.4",
+    "? boompuff-agriculture >= 1.1.0",
     "? fulgora-coralmium-agriculture >= 1.2.7",
     "? lignumis >= 1.10.0",
 

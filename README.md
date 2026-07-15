@@ -13,6 +13,7 @@ like the support for a given mod or a tweak, each one can be disabled in the mod
 ## Compatible mods
 
 - [Boompuff Agriculture](https://mods.factorio.com/mod/boompuff-agriculture)
+- [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux)
 - [Lignumis](https://mods.factorio.com/mod/lignumis)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 - [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)

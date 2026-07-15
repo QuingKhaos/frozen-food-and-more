@@ -79,3 +79,11 @@ if mods["planet-muluna"] then
     order = "b[tweaks]-a[muluna]-a[cryogenics]",
   } :commit()
 end
+
+khaoslib_setting:load {
+  type = "bool-setting",
+  name = "frozen-food-and-more-tweaks-hide-frozen-food",
+  setting_type = "startup",
+  default_value = true,
+  order = "b[tweaks]-a[hide-frozen-food]",
+} :commit()

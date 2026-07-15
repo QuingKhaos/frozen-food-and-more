@@ -41,7 +41,7 @@ if mods["aquilo-seabloom-algaculture"] and settings.startup["frozen-food-and-mor
     order = "ff[aquilo-seabloom-algaculture]-c[seaweed-snack]",
     stack_size = 50,
     weight = 1.5,
-    spoilage_time = "short",
+    spoilage_time = "long",
     tint = {
       primary = util.color("454b29"),
       secondary = util.color("9d9f91"),

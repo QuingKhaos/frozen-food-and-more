@@ -20,5 +20,10 @@
     "! spoilage-solution-and-more",
     "! frozen-goodies",
     "! frozen-goodies-and-more"
-  ]
+  ],
+  "package": {
+    "ignore": [
+      "**/*.xcf"
+    ]
+  }
 }

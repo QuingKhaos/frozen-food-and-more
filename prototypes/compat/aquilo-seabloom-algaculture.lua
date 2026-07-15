@@ -9,6 +9,7 @@ if mods["aquilo-seabloom-algaculture"] and settings.startup["frozen-food-and-mor
     order = "ff[aquilo-seabloom-algaculture]-a[seaweed]",
     stack_size = 50,
     weight = 1.5,
+    default_import_location = "aquilo",
     spoilage_time = "short",
     tint = {
       primary = util.color("5f6125"),
@@ -25,6 +26,7 @@ if mods["aquilo-seabloom-algaculture"] and settings.startup["frozen-food-and-mor
     order = "ff[aquilo-seabloom-algaculture]-b[seabloom]",
     stack_size = 50,
     weight = 1.5,
+    default_import_location = "aquilo",
     spoilage_time = "short",
     tint = {
       primary = util.color("49761b"),
@@ -41,6 +43,7 @@ if mods["aquilo-seabloom-algaculture"] and settings.startup["frozen-food-and-mor
     order = "ff[aquilo-seabloom-algaculture]-c[seaweed-snack]",
     stack_size = 50,
     weight = 1.5,
+    default_import_location = "aquilo",
     spoilage_time = "long",
     tint = {
       primary = util.color("454b29"),

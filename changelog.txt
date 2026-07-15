@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-07-15
+  Features:
+    - Configure proper import location for frozen food.
   Compatibility:
     - Add support for Boompuff Agriculture.
     - Add support for Fluroflux: Stingfrond Agriculture.

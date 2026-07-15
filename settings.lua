@@ -59,3 +59,13 @@ if mods["vulcanus-sulfuric-bacteria"] then
     order = "a[compat]-b[vulcanus-sulfuric-bacteria]",
   } :commit()
 end
+
+if mods["bioprocessing-tab"] then
+  khaoslib_setting:load {
+    type = "bool-setting",
+    name = "frozen-food-and-more-tweaks-bioprocessing-tab",
+    setting_type = "startup",
+    default_value = true,
+    order = "b[tweaks]-a[bioprocessing-tab]",
+  } :commit()
+end

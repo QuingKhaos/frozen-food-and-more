@@ -22,6 +22,8 @@
     "? lignumis >= 1.10.0",
     "? vulcanus-sulfuric-bacteria >= 1.2.2",
 
+    "? bioprocessing-tab >= 1.5.0",
+
     "! spoilage-solution",
     "! spoilage-solution-fork",
     "! spoilage-solution-and-more",

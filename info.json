@@ -23,6 +23,7 @@
     "? vulcanus-sulfuric-bacteria >= 1.2.2",
 
     "? bioprocessing-tab >= 1.5.0",
+    "? planet-muluna >= 2.2.7",
 
     "! spoilage-solution",
     "! spoilage-solution-fork",

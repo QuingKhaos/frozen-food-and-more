@@ -15,6 +15,7 @@ like the support for a given mod or a tweak, each one can be disabled in the mod
 - [Boompuff Agriculture](https://mods.factorio.com/mod/boompuff-agriculture)
 - [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux)
 - [Lignumis](https://mods.factorio.com/mod/lignumis)
+- [Muluna](https://mods.factorio.com/mod/planet-muluna)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 - [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)
 - [Wooden Vulcanus: Sulfuric Bacteria](https://mods.factorio.com/mod/vulcanus-sulfuric-bacteria)

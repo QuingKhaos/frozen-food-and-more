@@ -69,3 +69,13 @@ if mods["bioprocessing-tab"] then
     order = "b[tweaks]-a[bioprocessing-tab]",
   } :commit()
 end
+
+if mods["planet-muluna"] then
+  khaoslib_setting:load {
+    type = "bool-setting",
+    name = "frozen-food-and-more-tweaks-muluna-cryogenics",
+    setting_type = "startup",
+    default_value = true,
+    order = "b[tweaks]-a[muluna]-a[cryogenics]",
+  } :commit()
+end

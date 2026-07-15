@@ -16,6 +16,7 @@
     "FrozenFoodLib >= 1.0.3",
 
     "? aquilo-seabloom-algaculture >= 0.4.4",
+    "? fulgora-coralmium-agriculture >= 1.2.7",
 
     "! spoilage-solution",
     "! spoilage-solution-fork",

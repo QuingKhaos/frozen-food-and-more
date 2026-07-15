@@ -14,6 +14,7 @@ like the support for a given mod or a tweak, each one can be disabled in the mod
 
 - [Boompuff Agriculture](https://mods.factorio.com/mod/boompuff-agriculture)
 - [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux)
+- [Gleba Juice](https://mods.factorio.com/mod/gleba-juice)
 - [Lignumis](https://mods.factorio.com/mod/lignumis)
 - [Muluna](https://mods.factorio.com/mod/planet-muluna)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)

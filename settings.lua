@@ -40,6 +40,16 @@ if mods["fulgora-coralmium-agriculture"] then
   } :commit()
 end
 
+if mods["gleba-juice"] then
+  khaoslib_setting:load {
+    type = "bool-setting",
+    name = "frozen-food-and-more-compat-gleba-juice",
+    setting_type = "startup",
+    default_value = true,
+    order = "a[compat]-a[gleba-juice]",
+  } :commit()
+end
+
 if mods["lignumis"] then
   khaoslib_setting:load {
     type = "bool-setting",

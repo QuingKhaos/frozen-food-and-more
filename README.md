@@ -12,7 +12,7 @@ like the support for a given mod or a tweak, each one can be disabled in the mod
 
 ## Compatible mods
 
-t.b.d.
+- [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 
 If you want to see another mod supported, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.

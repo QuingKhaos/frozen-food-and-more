@@ -25,6 +25,7 @@
     "! frozen-goodies",
     "! frozen-goodies-and-more"
   ],
+  "spoiling_required": true,
   "package": {
     "ignore": [
       "**/*.xcf"

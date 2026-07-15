@@ -5,6 +5,7 @@ Date: 2026-07-15
     - Configure proper import location for frozen food.
     - Move frozen food and their recipes to bioprocessing tab if installed (configurable).
     - Add exploration science pack to cryogenics technology if Muluna is installed (configurable).
+    - Hide frozen items and their recipes, like vanilla barrelling is hidden (configurable).
   Compatibility:
     - Add support for Boompuff Agriculture.
     - Add support for Fluroflux: Stingfrond Agriculture.

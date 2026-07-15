@@ -49,3 +49,13 @@ if mods["lignumis"] then
     order = "a[compat]-a[lignumis]",
   } :commit()
 end
+
+if mods["vulcanus-sulfuric-bacteria"] then
+  khaoslib_setting:load {
+    type = "bool-setting",
+    name = "frozen-food-and-more-compat-vulcanus-sulfuric-bacteria",
+    setting_type = "startup",
+    default_value = true,
+    order = "a[compat]-b[vulcanus-sulfuric-bacteria]",
+  } :commit()
+end

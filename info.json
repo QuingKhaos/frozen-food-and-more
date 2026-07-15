@@ -20,6 +20,7 @@
     "? fluroflux >= 1.0.2",
     "? fulgora-coralmium-agriculture >= 1.2.7",
     "? lignumis >= 1.10.0",
+    "? vulcanus-sulfuric-bacteria >= 1.2.2",
 
     "! spoilage-solution",
     "! spoilage-solution-fork",

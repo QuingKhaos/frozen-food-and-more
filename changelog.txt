@@ -7,3 +7,4 @@ Date: 2026-07-15
     - Add support for Lignumis.
     - Add support for Wooden Aquilo: Seabloom Algaculture.
     - Add support for Wooden Fulgora: Coralmium Agriculture.
+    - Add support for Wooden Vulcanus: Sulfuric Bacteria.

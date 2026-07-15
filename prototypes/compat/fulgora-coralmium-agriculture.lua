@@ -9,6 +9,7 @@ if mods["fulgora-coralmium-agriculture"] and settings.startup["frozen-food-and-m
     order = "ff[fulgora-coralmium-agriculture]-a[charged-coralmium-seed]",
     stack_size = 50,
     weight = 1.5,
+    default_import_location = "fulgora",
     spoilage_time = "short",
     tint = {
       primary = util.color("44f9fb"),

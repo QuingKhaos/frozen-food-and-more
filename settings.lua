@@ -60,6 +60,16 @@ if mods["lignumis"] then
   } :commit()
 end
 
+if mods["pelagos"] then
+  khaoslib_setting:load {
+    type = "bool-setting",
+    name = "frozen-food-and-more-compat-pelagos",
+    setting_type = "startup",
+    default_value = true,
+    order = "a[compat]-a[pelagos]",
+  } :commit()
+end
+
 if mods["vulcanus-sulfuric-bacteria"] then
   khaoslib_setting:load {
     type = "bool-setting",
